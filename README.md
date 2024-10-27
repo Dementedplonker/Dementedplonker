@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dementedplonker
-- 👀 I’m interested in 'borrowing' ip addresses
-- 🌱 I’m currently learning python
+- 👀 I’m interested in game hacking
+- 🌱 I’m currently learning python/c#/lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
